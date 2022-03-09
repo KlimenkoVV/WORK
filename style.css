@@ -1,5 +1,92 @@
 body{
-    color: white;
-    background-color: black;
+    color: rgb(7, 7, 7);
+    background-color: rgb(38, 110, 74);
+    font-family: 'Roboto Mono', monospace;
     
+}
+
+.video1
+{
+text-align: left;  
+}
+.video2
+{
+text-align: center;  
+}
+.a
+{
+     display: block;
+     text-align: center;
+}
+.card
+{
+    display: flex;
+    background-color: aliceblue;
+    border: 2px solid white;
+    border-radius: 20px; 
+}
+.card img{
+border-radius: 20px 0 0 20px;
+}
+.card button{
+    border-radius: 0 20px 20px 0;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    background-color: brown;
+    color: white;
+    border: 2px solid 0;
+    border-color: black;
+    }
+.card p
+{
+margin-left: 20px;
+margin-right: 20px;
+}
+h1
+{
+text-align: center;
+color: White;
+}
+
+.card2
+{
+    display: flex;
+    background-color: white;
+    border: 2px solid 0;
+    border-radius: 20px; 
+}
+.card2 img{
+border-radius: 20px 0 0 20px;
+}
+.card2 p
+{
+margin-left: 15px;
+margin-right: 15px;
+}
+h2
+{
+color: rgb(2, 10, 131);
+text-align: center;
+}
+.card2 button{
+    margin: 80px;
+    height: 50px;
+    display: block;
+    text-align: center;
+    background-color: rgb(78, 0, 0);
+    color: white;
+    border-radius: 20px;
+
+    }
+.card3 button
+{
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
 }
