@@ -1,0 +1,72 @@
+/* body{
+    text-align: center;
+    display: inline-flex;
+}
+div{
+    margin: 0 auto;
+    width: 200px;
+    background-color: coral;
+    border: 2px 
+    /* height: 200px;
+    overflow: auto; */
+    /* margin-right: 10px; */
+    /* max-height: 250px;
+    min-height: 200px; */
+    /* height: 100px; */
+    /* width: 80%;
+    min-width: 700px;
+    max-width: 1200px; */
+/* .exp{
+    background-color: rgb(4, 241, 64);
+    color: aliceblue;
+}
+#exp1{
+    border: 2px solid darkblue;
+
+}
+#exp2{
+    border: 2px dashed blue;
+}
+#exp3{
+    border: 2px dotted darkblue;
+}
+#exp4{
+    border: 2px ridge blue;
+}
+#exp5{
+    border: 2px double blue;
+} */
+body{
+    text-align: center;
+    display: inline-flex;
+}
+div{
+
+}
+#T1{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    overflow: auto;
+    border: 2px dotted black;
+    margin-right: 20px;
+}
+ #T2{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(202, 4, 159);
+    overflow: auto;
+    border: 2px ridge black;
+    margin-right: 20px;
+}
+#T3{
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(202, 236, 4);
+    overflow: auto;
+    border: 2px dashed black;
+    margin-right: 20px;
+}
